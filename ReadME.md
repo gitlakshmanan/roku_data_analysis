@@ -19,6 +19,8 @@ A Streamlit-based internal analytics dashboard for tracking, visualizing, and ma
 
 <img width="1916" height="1011" alt="image" src="https://github.com/user-attachments/assets/9b334ded-5d93-4d5d-aece-18f3f3892255" />
 
+<img width="1921" height="1011" alt="image" src="https://github.com/user-attachments/assets/7ec20e32-cd3f-4002-b7e6-ddd82ee7ed43" />
+
 
 ## Tech Stack
 
