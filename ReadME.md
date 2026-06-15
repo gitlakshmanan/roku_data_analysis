@@ -15,6 +15,7 @@ A Streamlit-based internal analytics dashboard for tracking, visualizing, and ma
 - **Analysis Data** — Deep-dive summaries including top/least models by quantity and revenue, service-code insights, and revenue share charts
 
 ---
+<img width="1921" height="1005" alt="image" src="https://github.com/user-attachments/assets/a022a930-83df-4a56-98e8-b432910bf45a" />
 
 ## Tech Stack
 
