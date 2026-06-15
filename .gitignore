@@ -1,0 +1,23 @@
+[theme]
+base="dark"
+
+# Virtual environment
+venv/
+pidi/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Secret files
+.streamlit/secrets.toml
+.toml

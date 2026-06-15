@@ -1,0 +1,13 @@
+pandas==2.2.3
+numpy==2.2.4
+streamlit==1.44.1
+matplotlib==3.10.1
+mysql-connector-python==8.3.0
+SQLAlchemy==2.0.40
+plotly==6.0.1
+streamlit-aggrid==1.1.2
+streamlit-extras==0.6.0
+cachetools==5.5.2
+bcrypt==4.3.0
+python-dotenv==1.1.0
+timezones==3.0.0
